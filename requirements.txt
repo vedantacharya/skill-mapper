@@ -1,0 +1,12 @@
+fastapi
+pymongo
+PyPDF2
+openai
+llama-index-embeddings-openai
+qdrant-client
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+duckduckgo-search
+youtube-search 
